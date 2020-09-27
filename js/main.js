@@ -77,7 +77,7 @@ function vuejs() {
                         if(vm.$data.op_flag < op_length)
                             vm.selected(el_old_next, 'add');
                         el_old.find('.p-'+op.problem_index).removeClass('uncover');
-                        // vm.scrollToTop(op.old_rank, op_next.old_rank);
+                        vm.scrollToTop(op.old_rank, op_next.old_rank);
                         vm.$data.op_flag += 1;
                         vm.$data.op_status = true;
                     }, FLAHING_TIME + 100);
@@ -249,25 +249,29 @@ function vuejs() {
             selected: function(el, type){
                 if(type == 'add'){
                     el.addClass('selected');
-                    // var win_heigth = $(window).height();
-                    // var el_pos = el.position().top;
-                    // var offset = el_pos - win_heigth + 261;
-                    // window.scrollTo(0, offset);
+                    var win_height = $(window).height();
+                    var el_pos = el.position().top;
+                    var offset = el_pos - win_height;
+                    window.scrollTo({
+                        top: offset+600,
+                        left: 0,
+                        behavior: 'smooth'
+                    });
                 }else if(type == 'remove')
                     el.removeClass('selected');
                 
             },
 
-            // scrollToTop: function(old_rank, new_rank){
-            //     var next_scrollY = -(new_rank * 75 + 52); // 75px: rank-item height; 52px: header
-            //     scrollInterval = setInterval(function(){
-            //         if (window.scrollY != next_scrollY) {
-            //             window.scrollBy(0, -1);
-            //         }
-            //         else clearInterval(scrollInterval); 
-            //     },30);
+            scrollToTop: function(old_rank, new_rank){
+                var next_scrollY = -(new_rank * 75 + 52); // 75px: rank-item height; 52px: header
+                scrollInterval = setInterval(function(){
+                    if (window.scrollY != next_scrollY) {
+                        window.scrollBy(0, -1);
+                    }
+                    else clearInterval(scrollInterval); 
+                },30);
 
-            // }
+            }
 
         }
     });

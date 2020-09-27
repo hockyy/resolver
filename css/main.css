@@ -21,6 +21,8 @@
 }
 .item {
     border-radius: 3px;
+    border-color: #3b3b3b;
+    border-style: solid;
 }
 .rank, .content, .problems li {
     float: left;
