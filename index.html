@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>ICPC Indonesia COMPFEST 12 Multi-Provincial Contest</title>
+        <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
         <link type="text/css" rel="stylesheet" href="libs/style/bootstrap.min.css">
         <link type="text/css" rel="stylesheet" href="libs/style/sticky-footer.css">
         <link type="text/css" rel="stylesheet" href="css/main.css">
@@ -30,7 +31,8 @@
             <div id="rank-{{$index}}" class="rank-list-item clearfix" v-for="team in ranks" track-by="user_id">
                 <div class="rank">{{ team.rank_show }}</div>
                 <div class="content">
-                    <div class="name">{{ users[team.user_id].college }}--{{ users[team.user_id].name }}</div>
+                    <div class="name"><strong>{{ users[team.user_id].name }}</strong></div>
+                    <div class="name" style="font-size:20px">{{ users[team.user_id].college }}</div>
                     <ul class="problems">
                         <li v-for="n in p_count" class="{{team.problem[n+1]|problemStatus}} p-{{n+1}} item">
                             <div class="{{team.problem[n+1]|problemStatus}} p-content">{{team.problem[n+1] | submissions}}</div>
