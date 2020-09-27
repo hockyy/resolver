@@ -77,7 +77,7 @@ function vuejs() {
                         if(vm.$data.op_flag < op_length)
                             vm.selected(el_old_next, 'add');
                         el_old.find('.p-'+op.problem_index).removeClass('uncover');
-                        vm.scrollToTop(op.old_rank, op_next.old_rank);
+                        // vm.scrollToTop(op.old_rank, op_next.old_rank);
                         vm.$data.op_flag += 1;
                         vm.$data.op_status = true;
                     }, FLAHING_TIME + 100);
@@ -252,11 +252,14 @@ function vuejs() {
                     var win_height = $(window).height();
                     var el_pos = el.position().top;
                     var offset = el_pos - win_height;
-                    window.scrollTo({
-                        top: offset+600,
-                        left: 0,
-                        behavior: 'smooth'
-                    });
+                    $('html, body').animate({
+                        scrollTop: offset+600
+                    }, 800);
+                    // window.scrollTo({
+                    //     top: offset+600,
+                    //     left: 0,
+                    //     behavior: 'smooth'
+                    // });
                 }else if(type == 'remove')
                     el.removeClass('selected');
                 
