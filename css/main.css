@@ -17,13 +17,7 @@
     color: white;
 }
 .rank-list {
-    background: repeating-linear-gradient(
-      180deg,
-      #3e3e3e 0px,
-      #3e3e3e 103px,
-      black 103px,
-      black 206px
-    );
+    background-color: #3b3b3b;
 }
 .item {
     border-radius: 3px;
@@ -41,9 +35,11 @@
     line-height: 83px;
 }
 .rank-list-item {
+    background-color: #1f1f1f;
     padding: 10px;
     position: relative;
-    background: transparent;
+    border-color: #3b3b3b;
+    border-style: solid;
 }
 
 .ac {
@@ -92,6 +88,7 @@
     line-height: 83px;
     margin-right: 15px;
 }
+
 .name {
     font-size: 35px;
     margin-bottom: 5px;
@@ -110,7 +107,7 @@
 }
 .problems .item .p-content {
     padding: 1px 0;
-    font-size: 15px;
+    font-size: 25px;
 }
 .solved {
     width: 70px;
