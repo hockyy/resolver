@@ -1,0 +1,665 @@
+{
+  "problem_count": 9,
+  "solutions": {
+    "2634": {
+      "user_id": "JIDUSERsL7lpNeGGGLl2bNnvtdv",
+      "problem_index": "1",
+      "verdict": "WA",
+      "submitted_seconds": 361
+    },
+    "2635": {
+      "user_id": "JIDUSERsL7lpNeGGGLl2bNnvtdv",
+      "problem_index": "1",
+      "verdict": "WA",
+      "submitted_seconds": 361
+    },
+    "2636": {
+      "user_id": "JIDUSERsL7lpNeGGGLl2bNnvtdv",
+      "problem_index": "1",
+      "verdict": "AC",
+      "submitted_seconds": 368
+    }
+  },
+  "users": {
+    "JIDUSERlsvxOIwMLkzHS6kAEfuB": {
+      "name": "Hilang",
+      "college": "Hilang",
+      "is_exclude": false
+    },
+    "JIDUSERsL7lpNeGGGLl2bNnvtdv": {
+      "name": "404_not_found",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERmc0ynLA1HEi8d7d5mjv6": {
+      "name": "SCARS",
+      "college": "Universitas Pendidikan Indonesia",
+      "is_exclude": false
+    },
+    "JIDUSERwewZMDvYbvF7bY0wdnyF": {
+      "name": "Coba2IsReal",
+      "college": "IPB University",
+      "is_exclude": false
+    },
+    "JIDUSERYRcjlezORWKm3CuxNQ6L": {
+      "name": "i-geng",
+      "college": "Institut Teknologi Bandung",
+      "is_exclude": false
+    },
+    "JIDUSERWF4gaTzfpbNhi5MpJut6": {
+      "name": "Duominique",
+      "college": "Institut Teknologi Bandung",
+      "is_exclude": false
+    },
+    "JIDUSERMT7pr77vnQFHeUtB6wUj": {
+      "name": "Bebekkwekkwek",
+      "college": "Universitas Diponegoro",
+      "is_exclude": false
+    },
+    "JIDUSERagYvLhbSqj0inMfTZEv3": {
+      "name": "ccstmiktsm",
+      "college": "STMIK Tasikmalaya",
+      "is_exclude": false
+    },
+    "JIDUSERZxD9YvVa9IoKW2scKnPB": {
+      "name": "Gaskeun!!!",
+      "college": "STTK Bina Nusantara Bandung",
+      "is_exclude": false
+    },
+    "JIDUSERFDqP7OseABg8LtTVlhuV": {
+      "name": "ntTAs",
+      "college": "Institut Teknologi Bandung",
+      "is_exclude": false
+    },
+    "JIDUSERAzmG1ueapEmaFLxIDKR8": {
+      "name": "Nolf Tech",
+      "college": "UIN Sunan Gunung Djati Bandung",
+      "is_exclude": false
+    },
+    "JIDUSERpjFF5ms9XVDwpPR1fRhm": {
+      "name": "merah_tua",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSER9GXWXARnWemFDHIMFWBp": {
+      "name": "Pesona Mantan - BCC",
+      "college": "Universitas Brawijaya",
+      "is_exclude": false
+    },
+    "JIDUSERBUu5BQIUJwzQwoW0zfS8": {
+      "name": "CorporateSlave",
+      "college": "Institut Teknologi Bandung",
+      "is_exclude": false
+    },
+    "JIDUSER6y25GWh4V0R4TXUtAcEt": {
+      "name": "Pensiunan Matematika",
+      "college": "Institut Teknologi Bandung",
+      "is_exclude": false
+    },
+    "JIDUSERx3VNfZVxPayTTAPuHJBm": {
+      "name": "Dua Teman",
+      "college": "Universitas Indonesia",
+      "is_exclude": false
+    },
+    "JIDUSER7PhWLn02AbWXe5I6jyPb": {
+      "name": "T-shirt Hunter",
+      "college": "Institut Teknologi Bandung",
+      "is_exclude": false
+    },
+    "JIDUSERaYcUq6UyhXdVwi1CkHCX": {
+      "name": "Elite",
+      "college": "Institut Teknologi Bandung",
+      "is_exclude": false
+    },
+    "JIDUSER9FumroTXD6xjLRq8bnAm": {
+      "name": "The Bulb",
+      "college": "Politeknik Elektronika Negeri Surabaya",
+      "is_exclude": false
+    },
+    "JIDUSERGnPjEhIZY12AvUZgxwBa": {
+      "name": "rms46",
+      "college": "Universitas Indonesia",
+      "is_exclude": false
+    },
+    "JIDUSERyQKnbSWb86PkvPEzGLDe": {
+      "name": "CDeV++",
+      "college": "STTK Bina Nusantara Bandung",
+      "is_exclude": false
+    },
+    "JIDUSERc3MGXdwhOT3NXWk1RhOw": {
+      "name": "mahasantuy",
+      "college": "Universitas Negeri Malang",
+      "is_exclude": false
+    },
+    "JIDUSER4kdUNmtR6kDWWbniOPjI": {
+      "name": "Code-code-code",
+      "college": "Universitas Padjadjaran",
+      "is_exclude": false
+    },
+    "JIDUSER6tKHMUHk9eKhgT6UhV9b": {
+      "name": "Hemmatutu",
+      "college": "Institut Teknologi Del",
+      "is_exclude": false
+    },
+    "JIDUSERDK9TKqiAGm9pDrLkKvfs": {
+      "name": "TeamCobaCoba",
+      "college": "Universitas Gadjah Mada",
+      "is_exclude": false
+    },
+    "JIDUSERAmfJEeBnkFQngjLCVcTF": {
+      "name": "LePPy.io",
+      "college": "Unika Soegijapranata",
+      "is_exclude": false
+    },
+    "JIDUSER0j1tZ9P389HK0BorPUCB": {
+      "name": "StillLearn",
+      "college": "Del Institute of Technology",
+      "is_exclude": false
+    },
+    "JIDUSERl7PPlfTHgi37RqekASh3": {
+      "name": "Conviction",
+      "college": "Universitas Teknologi Yogyakarta",
+      "is_exclude": false
+    },
+    "JIDUSERrZ7SYjnGzrGfgOOfNnnK": {
+      "name": "( \u0361\u00b0 \u035c\u0296 \u0361\u00b0) interesting ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)",
+      "college": "STTK Bina Nusantara Bandung",
+      "is_exclude": false
+    },
+    "JIDUSER0mAdBSAhxTykMVrJAlAw": {
+      "name": "SELF",
+      "college": "Universitas Padjadjaran",
+      "is_exclude": false
+    },
+    "JIDUSERci49IlhRXYm5qdSxvmvS": {
+      "name": "TuySans",
+      "college": "universitas esa unggul",
+      "is_exclude": false
+    },
+    "JIDUSERUNbOAjdNKiZNlWjr1mSG": {
+      "name": "Amit Nggih",
+      "college": "Universitas Muhammadiyah Malang",
+      "is_exclude": false
+    },
+    "JIDUSERyKshKFwvL9HL4wCW7pi3": {
+      "name": "Bachelor This Year",
+      "college": "Universitas Kristen Satya Wacana",
+      "is_exclude": false
+    },
+    "JIDUSERGjiITrhbvXd6tRSZcFge": {
+      "name": "Korean Forest Stonks",
+      "college": "Institut Teknologi Bandung",
+      "is_exclude": false
+    },
+    "JIDUSERV3kFYvIsMfmPzEiUVkuw": {
+      "name": "kosu",
+      "college": "STMIK Mikroskil",
+      "is_exclude": false
+    },
+    "JIDUSERQ2RQYjveqslaRBnlAOvK": {
+      "name": "Permisi Sebentar",
+      "college": "Institut Teknologi Sepuluh Nopember",
+      "is_exclude": false
+    },
+    "JIDUSERrFvkxtePlAjgcy4FN43d": {
+      "name": "Buwung Puyuh",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERK8z44XrPRswiejxzD49F": {
+      "name": "Extinguisher",
+      "college": "Institut Teknologi Sumatera",
+      "is_exclude": false
+    },
+    "JIDUSERKMRRZThUWCRZgZ3Nq088": {
+      "name": "Manut",
+      "college": "Politeknik Elektronika Negeri Surabaya",
+      "is_exclude": false
+    },
+    "JIDUSERTuiIte24R79J76ZmbcJr": {
+      "name": "FES",
+      "college": "Universitas Lampung",
+      "is_exclude": false
+    },
+    "JIDUSERvq5ezFH2uONfFHSFD9lA": {
+      "name": "LPG [Ling-Lung Programming Geeks]",
+      "college": "Universitas Tarumanagara",
+      "is_exclude": false
+    },
+    "JIDUSERJI4s5JE8csojixfqPe5n": {
+      "name": "Lightyear Team",
+      "college": "Universitas Lampung",
+      "is_exclude": false
+    },
+    "JIDUSERrgAfaqEa5vuIXedajs9Q": {
+      "name": "Lumen Veritates",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERrqwOVKhigEBFR6aScgRP": {
+      "name": "[COMTRAN] PenikmatSenja",
+      "college": "Telkom University",
+      "is_exclude": false
+    },
+    "JIDUSERV2hAd6l5fOkDIb7mvnAq": {
+      "name": "C.O.D.E",
+      "college": "Politeknik Statistika STIS",
+      "is_exclude": false
+    },
+    "JIDUSER1QdkNdgxIXAxkbCc92us": {
+      "name": "NyepePasPandemi",
+      "college": "Universitas Gadjah Mada",
+      "is_exclude": false
+    },
+    "JIDUSERJsmfFpJKBDCRaXkEUIki": {
+      "name": "Indo Hunter",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERg7dgnCyeFV5xTGWVgWZU": {
+      "name": "bebas_bang",
+      "college": "Universitas Komputer Indonesia",
+      "is_exclude": false
+    },
+    "JIDUSERCaPTkBFLCkz6uJDKFwkN": {
+      "name": "lancar jaya",
+      "college": "Politeknik Negeri Jakarta",
+      "is_exclude": false
+    },
+    "JIDUSERM6QY34cQwBgh8ZxKupRh": {
+      "name": "TLE Sample TC",
+      "college": "Universitas Indonesia",
+      "is_exclude": false
+    },
+    "JIDUSERhD8lkVwAF2grpNStAGdo": {
+      "name": "Charuniverse",
+      "college": "Universitas Negeri Medan",
+      "is_exclude": false
+    },
+    "JIDUSERuqWRiCUyMROVSGfzfi2V": {
+      "name": "AC GA AC YANG PENTING SOCIAL DISTANCING",
+      "college": "Institut Pertanian Bogor",
+      "is_exclude": false
+    },
+    "JIDUSERQJkK1ViHLmqmVI52jgaX": {
+      "name": "PendatangBaru",
+      "college": "STMIK Mikroskil",
+      "is_exclude": false
+    },
+    "JIDUSERZePZC6masmatRadiemnC": {
+      "name": "Kodok BS",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSER5RtnDT7BFbj4tHfZX2Z2": {
+      "name": "Bebas Linear",
+      "college": "Universitas Indonesia",
+      "is_exclude": false
+    },
+    "JIDUSERYVxBmRHijWg87nqGt4x8": {
+      "name": "Insyaallah Hoki",
+      "college": "Institut Teknologi Bandung",
+      "is_exclude": false
+    },
+    "JIDUSERxFPkwWfdzXi4eUPSFAFa": {
+      "name": "Parkview Nibbas",
+      "college": "Universitas Indonesia",
+      "is_exclude": false
+    },
+    "JIDUSERB9L29ltmeujegBoeTPdm": {
+      "name": "ItbNoFukkatsu",
+      "college": "Institut Teknologi Bandung",
+      "is_exclude": false
+    },
+    "JIDUSERj61v1DuEnkLH0IUKBPw2": {
+      "name": "HikariCode",
+      "college": "Universitas Komputer Indonesia",
+      "is_exclude": false
+    },
+    "JIDUSERvxyzKKhs8d99s30eRXvL": {
+      "name": "Naga Indosiar",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERoqhHnXoJ3WalPNiqdzoG": {
+      "name": "DOSCOM",
+      "college": "Universitas Dian Nuswantoro",
+      "is_exclude": false
+    },
+    "JIDUSEROsDWoXc7LckDd1WFCavs": {
+      "name": "Mob Phantom",
+      "college": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+      "is_exclude": false
+    },
+    "JIDUSERrBV2JOQNJcsmXjLxIGYp": {
+      "name": "Kodok Kuning",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERlATYskvq2Jonn20zg0S4": {
+      "name": "Yonk\u014d-1",
+      "college": "Institut Teknologi Bandung",
+      "is_exclude": false
+    },
+    "JIDUSERRLMCX2zcRaiXj8UJF0Sv": {
+      "name": "Trial",
+      "college": "Universitas Sumatera Utara",
+      "is_exclude": false
+    },
+    "JIDUSERcVPGl48IEk89FYpe3aWb": {
+      "name": "cocomelon",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERjpDYrmviGcVijnnnTKMv": {
+      "name": "Rumah Besar Muntu",
+      "college": "Politeknik Negeri Bandung",
+      "is_exclude": false
+    },
+    "JIDUSER3Xs5sCNa8gPDp48Hs5PN": {
+      "name": "Unrated",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERNlpMuTrref4vlVDw51Vc": {
+      "name": "MAT-TI-MAT-TI",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERX5eqFzOe9rpfeTvNV3j6": {
+      "name": "notHuman",
+      "college": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+      "is_exclude": false
+    },
+    "JIDUSERxjaAEuH64meGoJARI985": {
+      "name": "[COMTRAN] ........",
+      "college": "Telkom University",
+      "is_exclude": false
+    },
+    "JIDUSER12WYVRIXodSZwSrJwQbX": {
+      "name": "Tsukoyomi",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERU3iOwbiATSfMBl678Jgw": {
+      "name": "Eucalyptus",
+      "college": "Universitas Tanjungpura",
+      "is_exclude": false
+    },
+    "JIDUSERQCjIOKHpBXcXSuuiV7NR": {
+      "name": "Uchia[COMTRAN]",
+      "college": "Telkom University",
+      "is_exclude": false
+    },
+    "JIDUSERpTvfUdjaoeJ1WOzrdmvz": {
+      "name": "11 > 12",
+      "college": "Universitas Indonesia",
+      "is_exclude": false
+    },
+    "JIDUSERMJaf92HL0TtMfarq7eti": {
+      "name": "chizuru",
+      "college": "Institut Sains dan Teknologi Terpadu Surabaya",
+      "is_exclude": false
+    },
+    "JIDUSERT5ZtmmdD942Qr4Q8Ov2G": {
+      "name": "AC Haram",
+      "college": "Universitas Indonesia",
+      "is_exclude": false
+    },
+    "JIDUSERxBfodFAERa8yFkWccacv": {
+      "name": "nolep.id",
+      "college": "UIN Maulana Malik Ibrahim Malang",
+      "is_exclude": false
+    },
+    "JIDUSERJAfri3ubfPk2U8AZdWCw": {
+      "name": "Tim7Comtran",
+      "college": "Telkom University",
+      "is_exclude": false
+    },
+    "JIDUSERcAZ8h7tb2iiydEG9evqO": {
+      "name": "Sweet Sour Sauce",
+      "college": "Universitas Gunadarma",
+      "is_exclude": false
+    },
+    "JIDUSER7bXvHnruoxDO0Gfhmqxt": {
+      "name": "Mantab Jiwa",
+      "college": "Universitas Multimedia Nusantara",
+      "is_exclude": false
+    },
+    "JIDUSEReRxJVMeZNtsu5qow2NNP": {
+      "name": "JOne",
+      "college": "Institut Teknologi Sepuluh Nopember",
+      "is_exclude": false
+    },
+    "JIDUSERJstTDCPSEJpuoz6aER4C": {
+      "name": "LAGAS",
+      "college": "ITB STIKOM Bali",
+      "is_exclude": false
+    },
+    "JIDUSERy5xwoL9Vp39j1coNRJQZ": {
+      "name": "Fly angel",
+      "college": "Universitas Indonesia",
+      "is_exclude": false
+    },
+    "JIDUSERunHSqscQkykxibNjFimr": {
+      "name": "BCC Newbie",
+      "college": "Universitas Brawijaya",
+      "is_exclude": false
+    },
+    "JIDUSERqNuq2UzGf5Kgcvg6PPn1": {
+      "name": "PokemonBukanNaruto",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERKepqWdBx3VIKLlzua9EC": {
+      "name": "tu~turu~",
+      "college": "Institut Teknologi Sumatera",
+      "is_exclude": false
+    },
+    "JIDUSER1fCKPd37sRmV56TTe07K": {
+      "name": "BengbengCair",
+      "college": "Universitas Brawijaya",
+      "is_exclude": false
+    },
+    "JIDUSERYb2J1uP5UtJ9ZCW0oi1G": {
+      "name": "Hatenna",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERlqrr3RSzjOyFQQ6dM6Fe": {
+      "name": "Auto Code",
+      "college": "Institut Teknologi Sepuluh Nopember",
+      "is_exclude": false
+    },
+    "JIDUSER2n17LeGwJbAErvWcceVw": {
+      "name": "Kami Bertiga",
+      "college": "Universitas Multimedia Nusantara",
+      "is_exclude": false
+    },
+    "JIDUSERUlAYW3GHiWrZ68PM4NaM": {
+      "name": "NOIDEA",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERUGUc5i9Momn7ofT3UgBD": {
+      "name": "pufpufpuf",
+      "college": "Universitas Gadjah Mada",
+      "is_exclude": false
+    },
+    "JIDUSERUJtktu9tXFDYqfwGOr23": {
+      "name": "Sadiz",
+      "college": "IPB University",
+      "is_exclude": false
+    },
+    "JIDUSERb7m51MRyY2LnUcGu9uf5": {
+      "name": "dakishimeraretara",
+      "college": "Universitas Negeri Medan",
+      "is_exclude": false
+    },
+    "JIDUSERD7mFrFvdV0otSEMCbCUB": {
+      "name": "!Skripsi",
+      "college": "Universitas Atma Jaya Yogyakarta",
+      "is_exclude": false
+    },
+    "JIDUSERmRu4Z9cRRwFqMRR6hf63": {
+      "name": "apa hayo",
+      "college": "STTK Bina Nusantara Bandung",
+      "is_exclude": false
+    },
+    "JIDUSERhuC5FBiYKhli67T1E8GH": {
+      "name": "gold-gen.id",
+      "college": "Institut Teknologi Del",
+      "is_exclude": false
+    },
+    "JIDUSERVogEe9GUdxahzktaauqp": {
+      "name": "UMNPC1",
+      "college": "Universitas Multimedia Nusantara",
+      "is_exclude": false
+    },
+    "JIDUSERTZ3n6Sz8yqslmuE5Qx8X": {
+      "name": "Ultramen Ngoding Santuy",
+      "college": "Universitas Sebelas Maret",
+      "is_exclude": false
+    },
+    "JIDUSERiYdglTBSeOuXZgk5BwGi": {
+      "name": "U+1F41E",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERKj3in9wCGECZ1mL9C9lP": {
+      "name": "N-th Decade",
+      "college": "Institut Teknologi Bandung",
+      "is_exclude": false
+    },
+    "JIDUSERi7pubhhdCs1Jd4gDWJjC": {
+      "name": "Cyber Poliban_01",
+      "college": "Politeknik Negeri Banjarmasin",
+      "is_exclude": false
+    },
+    "JIDUSERKvJGxCzxlPeXaKI3YMEV": {
+      "name": "Sotardok",
+      "college": "Institut Teknologi Del",
+      "is_exclude": false
+    },
+    "JIDUSERUJuqtRr6zZdyZWT2Hfmx": {
+      "name": "AnakLiran",
+      "college": "Telkom University",
+      "is_exclude": false
+    },
+    "JIDUSERiuFzMamhFN7D2hIh5zc2": {
+      "name": "Mi Gente",
+      "college": "STMIK Mikroskil",
+      "is_exclude": false
+    },
+    "JIDUSERAFagaroyQbCxe3TihSfr": {
+      "name": "SLyRCs",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERBxyEBkPSRLcHPkQgaIIT": {
+      "name": "O_iki",
+      "college": "Institut Teknologi Sepuluh Nopember",
+      "is_exclude": false
+    },
+    "JIDUSERWMYCOTQFP95xDSBzxgx0": {
+      "name": "NONE",
+      "college": "Universitas Atma Jaya Yogyakarta",
+      "is_exclude": false
+    },
+    "JIDUSERpTeGoy1NkyVlKkAF6OX3": {
+      "name": "DreamUP!",
+      "college": "Universitas Pendidikan Indonesia",
+      "is_exclude": false
+    },
+    "JIDUSERjArW2r1GsIlK0hI3MUUE": {
+      "name": "9o\u22a5",
+      "college": "Universitas Indonesia",
+      "is_exclude": false
+    },
+    "JIDUSERiV03094xeZqAXscA1anS": {
+      "name": "2Jomblo&Friend",
+      "college": "Bina Nusantara University",
+      "is_exclude": false
+    },
+    "JIDUSERkgOFnNIaMVTb3IEsE5A0": {
+      "name": "Garuda Veteran",
+      "college": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+      "is_exclude": false
+    },
+    "JIDUSERDRj7mxOckad7TEux87Oj": {
+      "name": "Jokes Bapack Bapack",
+      "college": "Universitas Brawijaya",
+      "is_exclude": false
+    },
+    "JIDUSERs0wLUPzOXuI0N4MaqRpo": {
+      "name": "LevelZero",
+      "college": "Universitas Komputer Indonesia",
+      "is_exclude": false
+    },
+    "JIDUSERslzhpyHwxTRucT2cfcnD": {
+      "name": "society",
+      "college": "Universitas Lampung",
+      "is_exclude": false
+    },
+    "JIDUSERsT2HoT9G1NY0AqqY3Cn8": {
+      "name": "DuYuRediTuLus",
+      "college": "Institut Teknologi Sepuluh Nopember",
+      "is_exclude": false
+    },
+    "JIDUSERfxrzcWvhuqzLRwpE8vW0": {
+      "name": "Ruby",
+      "college": "Universitas Sumatera Utara",
+      "is_exclude": false
+    },
+    "JIDUSERY6Q04iCgKBYaYiaLN9oN": {
+      "name": "Ilkom Unhas",
+      "college": "Universitas Hasanuddin",
+      "is_exclude": false
+    },
+    "JIDUSERazsSv7Kip6heRuaR9pe5": {
+      "name": "Null",
+      "college": "Universitas Hasanuddin",
+      "is_exclude": false
+    },
+    "JIDUSERYpA0ZUTTCJtPVt81OM3i": {
+      "name": "Sriwijaya_Programmer",
+      "college": "STABN Sriwijaya",
+      "is_exclude": false
+    },
+    "JIDUSER2Vf8VWsaxTU5VHKbrzPA": {
+      "name": "COMPFEST MANIA",
+      "college": "Telkom University",
+      "is_exclude": false
+    },
+    "JIDUSERlZHIVmeShpsdztII4PaV": {
+      "name": "Gazebo",
+      "college": "Universitas Lampung",
+      "is_exclude": false
+    },
+    "JIDUSERkus0u0D8TnxsYL0vzdbA": {
+      "name": "NULL;",
+      "college": "Institut Teknologi Sepuluh Nopember",
+      "is_exclude": false
+    },
+    "JIDUSERoj0mYYIMj9FA0Mt8Fg0y": {
+      "name": "SabiibaS",
+      "college": "Institut Teknologi Bandung",
+      "is_exclude": false
+    },
+    "JIDUSERU6WylXCyMktm0HVq7U8s": {
+      "name": "Complexity Gure_Itxaropena",
+      "college": "Institut Teknologi Sumatera",
+      "is_exclude": false
+    },
+    "JIDUSER4tsxkge5wZf59TuNw1ps": {
+      "name": "SIMP",
+      "college": "Telkom University",
+      "is_exclude": false
+    },
+    "JIDUSERVuxgEsXZpnBbsB5Bm7ml": {
+      "name": "dodo-L",
+      "college": "Universitas Katolik Parahyangan",
+      "is_exclude": false
+    }
+  }
+}
