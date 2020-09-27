@@ -2,7 +2,7 @@ function Resolver(solutions, users, problem_count){
 	this.solutions = solutions;
 	this.users = users;
 	this.problem_count = problem_count;
-	this.frozen_seconds = 3600;
+	this.frozen_seconds = 3600 * 4;
 	this.operations = [];
 }
 
