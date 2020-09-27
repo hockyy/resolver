@@ -1,0 +1,24 @@
+scheme: https
+superadmin_password: your_superadmin_password
+
+###################################################################################################
+
+raphael_url: localhost:5000
+jophiel_url: localhost:9001
+sandalphon_url: localhost:9002
+sealtiel_url: localhost:9003
+uriel_url: localhost:9004
+jerahmeel_url: localhost:9005
+rabbitmq_mgmt_url: localhost:15672
+platform_hint_url: localhost:8000
+
+###################################################################################################
+
+db_root_home: /root
+db_root_password: your_root_password
+db_host: localhost
+db_username: db_username
+db_password: db_pass
+db_options: "?useSSL=false"
+
+###################################################################################################

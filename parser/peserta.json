@@ -1,0 +1,11 @@
+{
+    "userJid": {
+        "name":"TeamName",
+        "institutionName": "instutionName",
+        "members":[
+            "Member 1",
+            "Member 2",
+            "Member 3"
+        ]
+    }
+}

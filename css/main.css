@@ -44,14 +44,18 @@
     border-style: solid;
 }
 
+.first-solve{
+    background-color: #005200;
+}
+
 .ac {
-    background-color: #5eb95e;
+    background-color: #00b300;
 }
 .failed, .WA {
-    background-color: #dd514c;
+    background-color: #ff443d;
 }
 .frozen {
-    background-color: #607D8B;
+    background-color: #0083c5;
 }
 .untouched {
     background-color: #1f1f1f;
